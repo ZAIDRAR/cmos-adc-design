@@ -1,0 +1,7 @@
+*.raw
+*.log
+*.net
+*.bak
+__pycache__/
+.venv/
+.DS_Store
